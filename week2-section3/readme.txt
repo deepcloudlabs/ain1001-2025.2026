@@ -1,0 +1,3 @@
+Hardware: CPU, GPU, Memory, I/O Devices: Disk, NIC,...
+Operating System: Management Services
+Programming Platform: JS Engine, JVM, Python Interpreter
