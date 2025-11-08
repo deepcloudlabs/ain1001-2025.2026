@@ -1,0 +1,15 @@
+jack = ("jack", "shephard", "1", 100_000, 1984, "IT")
+kate = ("kate", "austen", "2", 200_000, 1987, "SALES")
+james = ("james", "sawyer", "3", 300_000, 1985, "FINANCE")
+ben = ("ben", "linus", "4", 400_000, 1955, "HR")
+jin = ("jin", "kwon", "5", 500_000, 1990, "IT")
+sun = ("sun", "kwon", "6", 600_000, 1992, "IT")
+
+employees = []
+print(len(employees))
+employees.append(jack)
+print(len(employees))
+employees.append(kate)
+print(len(employees))
+employees.extend([james, ben, jin, sun])
+print(len(employees))
