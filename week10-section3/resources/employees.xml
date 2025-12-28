@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <fullname>jack shephard</fullname>
+    <department>Sales</department>
+    <salary>100000</salary>
+    <year>1978</year>
+    <fulltime>True</fulltime>
+  </row>
+  <row>
+    <index>1</index>
+    <fullname>kate austen</fullname>
+    <department>IT</department>
+    <salary>200000</salary>
+    <year>1985</year>
+    <fulltime>False</fulltime>
+  </row>
+  <row>
+    <index>2</index>
+    <fullname>ben linus</fullname>
+    <department>Finance</department>
+    <salary>150000</salary>
+    <year>1967</year>
+    <fulltime>True</fulltime>
+  </row>
+  <row>
+    <index>3</index>
+    <fullname>james sawyer</fullname>
+    <department>HR</department>
+    <salary>70000</salary>
+    <year>1979</year>
+    <fulltime>True</fulltime>
+  </row>
+  <row>
+    <index>4</index>
+    <fullname>kim kwon</fullname>
+    <department>Sales</department>
+    <salary>120000</salary>
+    <year>1986</year>
+    <fulltime>True</fulltime>
+  </row>
+  <row>
+    <index>5</index>
+    <fullname>sun kwon</fullname>
+    <department>IT</department>
+    <salary>200000</salary>
+    <year>1984</year>
+    <fulltime>False</fulltime>
+  </row>
+  <row>
+    <index>6</index>
+    <fullname>hugo reyes</fullname>
+    <department>IT</department>
+    <salary>120000</salary>
+    <year>1992</year>
+    <fulltime>True</fulltime>
+  </row>
+</data>

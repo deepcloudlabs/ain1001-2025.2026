@@ -1,0 +1,9 @@
+ I. Imperative Programming
+    Procedural Programming
+    Structured Programming
+    OOP
+    -> State + Loop/if/elif -> Solution
+II. Declarative Programming
+    SQL (Structured Query Language)
+    Functional Programming
+    -> Describe Solution

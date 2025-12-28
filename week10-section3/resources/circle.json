@@ -1,0 +1,10 @@
+{
+  "x": 100,
+  "y": 200,
+  "radius": 1000,
+  "drawing": {
+    "color": "red",
+    "thickness": 16,
+    "style": "solid"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fullname": {
+    "0": "jack shephard",
+    "1": "kate austen",
+    "2": "ben linus",
+    "3": "james sawyer",
+    "4": "kim kwon",
+    "5": "sun kwon",
+    "6": "hugo reyes"
+  },
+  "department": {
+    "0": "Sales",
+    "1": "IT",
+    "2": "Finance",
+    "3": "HR",
+    "4": "Sales",
+    "5": "IT",
+    "6": "IT"
+  },
+  "salary": {
+    "0": 100000,
+    "1": 200000,
+    "2": 150000,
+    "3": 70000,
+    "4": 120000,
+    "5": 200000,
+    "6": 120000
+  },
+  "year": {
+    "0": 1978,
+    "1": 1985,
+    "2": 1967,
+    "3": 1979,
+    "4": 1986,
+    "5": 1984,
+    "6": 1992
+  },
+  "fulltime": {
+    "0": true,
+    "1": false,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": false,
+    "6": true
+  }
+}
